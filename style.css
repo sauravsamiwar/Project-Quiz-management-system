@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: blueviolet;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background: blueviolet;    
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+.question {
+    margin: 15px 0;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background: #4f9760;
+    color: blueviolet;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #218838;
+}
